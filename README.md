@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-edite aqui o seu readme para sua entrega ser completa!
+Projeto desenvolvido para o processo avaliativo dos novos treinees na EJEM Mackenzie
 
 ## Getting Started 
 
